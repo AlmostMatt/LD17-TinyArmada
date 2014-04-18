@@ -1,10 +1,12 @@
 This game was created by Matthew Hyndman for the experimental gameplay project. Since then it has been added to and refined to be the game that you see now.
 (http://experimentalgameplay.com/blog/2010/03/10-seconds/) It is still a work in progress.
 
+Some screenshots:
+![](/screens/take9.png "This game is pretty well in progress")
+![](/screens/take8.png "Blue doesn't really have anywhere to expand")
+![You can see them shooting!](/screens/take11.png "I tried removing the grid and changing the water colour, I don't know which way is better")
 
 If you have problems with the game, or just have something to say, I can be contacted at mynd.man@gmail.com
-
-
 
 --HOW TO PLAY--
 Here is a brief summary of the controls. Most of this will be explained ingame if you haven't played before.
