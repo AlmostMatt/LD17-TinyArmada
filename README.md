@@ -1,5 +1,4 @@
-This game was created by Matthew Hyndman for LD
-(http://experimentalgameplay.com/blog/2010/03/10-seconds/) It is still a work in progress.
+This game was created by Matthew Hyndman for LD 17
 
 Some screenshots:
 ![](/screens/take9.png "This game is pretty well in progress")
